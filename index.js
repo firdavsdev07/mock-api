@@ -122,10 +122,7 @@ app.get("/api/plants/:id", (req, res) => {
     });
   }
 
-  res.json({
-    success: true,
-    data: plant,
-  });
+  res.json(plant);
 });
 
 // Root endpoint
