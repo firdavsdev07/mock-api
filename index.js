@@ -107,11 +107,7 @@ const plants = [
 
 // GET all plants
 app.get("/api/plants", (req, res) => {
-  res.json({
-    success: true,
-    count: plants.length,
-    data: plants,
-  });
+  res.json(plants);
 });
 
 // GET single plant by ID
