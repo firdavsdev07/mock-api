@@ -29,21 +29,21 @@ const plants = [
     title: "Snake Plant",
     price: 29.99,
     desc: "Low-maintenance succulent with upright, sword-like leaves. Excellent air purifier and perfect for beginners.",
-    img: "https://images.unsplash.com/photo-1593482892290-f54927ae1bb8?w=500",
+    img: "https://images.unsplash.com/photo-1687552212914-03a30c82053c?q=80&w=715&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: 3,
     title: "Fiddle Leaf Fig",
     price: 65.0,
     desc: "Stunning plant with large, violin-shaped leaves. A statement piece for any room with plenty of natural light.",
-    img: "https://images.unsplash.com/photo-1610375228550-d5e94c3e3de0?w=500",
+    img: "https://images.unsplash.com/photo-1545239705-1564e58b9e4a?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: 4,
     title: "Pothos",
     price: 19.99,
     desc: "Easy-to-grow trailing vine with heart-shaped leaves. Great for hanging baskets or shelves.",
-    img: "https://images.unsplash.com/photo-1597354917916-e6c0cf210abb?w=500",
+    img: "https://images.unsplash.com/photo-1596724878582-76f1a8fdc24f?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     id: 5,
@@ -64,7 +64,7 @@ const plants = [
     title: "Spider Plant",
     price: 15.99,
     desc: "Classic houseplant with arching leaves and baby plantlets. Very forgiving and perfect for beginners.",
-    img: "https://images.unsplash.com/photo-1572688484235-ea3f98c4b767?w=500",
+    img: "https://images.unsplash.com/photo-1611527664689-d430dd2a6774?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: 8,
@@ -78,7 +78,7 @@ const plants = [
     title: "Boston Fern",
     price: 27.5,
     desc: "Lush, feathery fern with cascading fronds. Loves humidity and indirect light.",
-    img: "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?w=500",
+    img: "https://images.unsplash.com/photo-1555803741-1ac759ac2f53?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: 10,
@@ -99,7 +99,7 @@ const plants = [
     title: "Calathea",
     price: 32.99,
     desc: "Decorative plant with stunning patterned leaves. Prefers humid conditions and low to medium light.",
-    img: "https://images.unsplash.com/photo-1612363851263-c5c5f7e27bd6?w=500",
+    img: "https://images.unsplash.com/photo-1687166752260-c423a780289b?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
 ];
 
