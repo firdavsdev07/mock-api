@@ -78,14 +78,14 @@ const plants = [
     title: "Boston Fern",
     price: 27.5,
     desc: "Lush, feathery fern with cascading fronds. Loves humidity and indirect light.",
-    img: "https://images.unsplash.com/photo-1555803741-1ac759ac2f53?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    img: "https://images.unsplash.com/photo-1606976120746-2289a18b474e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: 10,
     title: "Bird of Paradise",
     price: 75.0,
     desc: "Tropical plant with large, banana-like leaves. Creates a dramatic focal point in bright spaces.",
-    img: "https://images.unsplash.com/photo-1612363148951-14e67ab94971?w=500",
+    img: "https://images.unsplash.com/photo-1555803741-1ac759ac2f53?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     id: 11,
